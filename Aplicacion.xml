@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aplicaciones>
+<app> 
+    <nombre codi="1"> Telegram</nombre>
+    <tipus> Multiplataforma</tipus>
+    <descripcion> Chat y APIS </descripcion>
+    <fabricante> Nikolay y Pavel</fabricante>
+</app>
+<app>
+    <nombre codi="2">Geani</nombre>
+    <tipus>Programacion </tipus>
+    <descripcion> Aplicacion de programación de PC</descripcion>
+    <fabricante> Frank Lanizt</fabricante>
+</app>
+<app>
+    <nombre codi="3"> Discord</nombre>
+    <tipus> Multiplataforma</tipus>
+    <descripcion> Lllamadas y chats</descripcion>
+    <fabricante> Los Kingston</fabricante>
+</app>
+<app>
+    <nombre codi="4"> Twitter</nombre>
+    <tipus> Multiplataforma</tipus>
+    <descripcion> Publicaciones y noticias recientesde las redes</descripcion>
+    <fabricante> No existen</fabricante>
+</app>
+<app>
+    <nombre codi="5"> Instagram</nombre>
+    <tipus> Multiplataforma</tipus>
+    <descripcion> Fotos y chats</descripcion>
+    <fabricante> NPI</fabricante>
+</app>
+<app>
+    <nombre codi="6"> Twitch</nombre>
+    <tipus> Multiplataforma</tipus>
+    <descripcion> Plataforma de directos</descripcion>
+    <fabricante> NP</fabricante>
+</app>
+<app>
+    <nombre codi="7"> Mixer</nombre>
+    <tipus> Multiplataforma</tipus>
+    <descripcion> Plataforma de directos</descripcion>
+    <fabricante> Fundadores abandonados</fabricante>
+</app>
+<app>
+    <nombre CODE="8"> Amazon</nombre>
+    <tipus> Multiplataforma</tipus>
+    <descripcion> Tienda online</descripcion>
+    <fabricante> No se sabe</fabricante>
+</app>
+ </aplicaciones>
+
